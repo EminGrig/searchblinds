@@ -1,0 +1,45 @@
+
+#navigation {
+    width: 890px;
+    height: 40px;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 0px 0px 0px 0px;
+    background: #3498db;
+}
+.pattern {
+     width: 890px;
+     color: #333;
+     border: 1px solid #ccc;
+     background:#f9f9f9;
+     margin: 0px 0px 5px 0px;
+     padding: 10px;
+     height: 450px;
+ }
+.valance {
+    width: 890px;
+    color: #333;
+    border: 1px solid #ccc;
+    background:#f9f9f9;
+    margin: 0px 0px 5px 0px;
+    padding: 10px;
+    height: 220px;
+}
+
+#patternimg{
+    float:left;
+    display:block;
+    margin:5px auto;
+    padding:5px;
+    color:#ffffff;
+    border: 2px solid white;
+    border-radius:20px;
+    opacity:1;
+    width:173px;
+    height:173px;
+}
+
+ .img_border {
+     border: 2px solid dodgerblue;
+ }
